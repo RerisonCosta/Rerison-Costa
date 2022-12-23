@@ -5,14 +5,14 @@ Olá,  eu sou Rerison Costa
 ##  Meus Hobbies  
 
 -Ler 
--Jogar Videogamen 
+-Jogar Videogame 
 -Assistir Séries 
--Estudar progranmação e assuntos de Tecnologia 
+-Estudar Programação e Assuntos de Tecnologia 
 
-## Atualmente estudando 
+## Atualmente Estudando 
 
 - Git e Github
--  javascript e Typescript
+-  Javascript e Typescript
 - React
 
 ## Meus Contatos 
